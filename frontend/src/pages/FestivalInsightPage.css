@@ -1,0 +1,19 @@
+.insight-page {
+  font-family: sans-serif;
+  padding: 2rem;
+}
+
+.insight-page h1 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+  font-weight: bold;
+}
+
+.insight-page section {
+  margin-top: 2rem;
+}
+
+.insight-page ul {
+  padding-left: 1.25rem;
+  list-style-type: disc;
+}
